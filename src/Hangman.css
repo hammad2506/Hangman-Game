@@ -27,7 +27,7 @@
 .Hangman-btns {
   text-align: center;
   display: inline-block;
-  width: 350px;
+  width: 89%;
   margin-top: 0;
 }
 .Hangman button {
